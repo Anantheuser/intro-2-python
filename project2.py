@@ -1,0 +1,5 @@
+firstname = input("please enter your first name: ")
+lastname = input("please enter your last name: ")
+print("nice to meet you " + firstname + " " + lastname + "!")
+age = int(input("how old are you? "))
+print ("so, you are " + str(age) + " years old!")
